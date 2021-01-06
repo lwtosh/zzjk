@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "ali-oss": "^6.2.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "clipboard": "^2.0.4",
     "element-ui": "^2.7.2",
     "less": "^3.10.3",
